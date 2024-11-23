@@ -1,0 +1,110 @@
+[
+    {
+      "id": 1,
+      "name": "Galaxy S23 Ultra",
+      "brand": "Samsung",
+      "price": 1199,
+      "image": "https://i0.wp.com/www.smartprix.com/bytes/wp-content/uploads/2023/02/IMG_20230202_103312.jpg?resize=1024%2C1024&ssl=1",
+      "description": "Experience the ultimate performance with the Galaxy S23 Ultra, featuring a 200 MP camera and S Pen.",
+      "specifications": {
+        "display": "6.8-inch AMOLED, 120Hz",
+        "processor": "Snapdragon 8 Gen 2",
+        "ram": "12GB",
+        "storage": "256GB",
+        "battery": "5000mAh",
+        "os": "Android 13"
+      },
+      "rating": 4.8,
+      "availability": "In Stock"
+    },
+    {
+      "id": 2,
+      "name": "iPhone 15 Pro Max",
+      "brand": "Apple",
+      "price": 1299,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsF9aD-0M8y4CK1RvtZZw9cklUMMH_PmQZLQ&s",
+      "description": "The most advanced iPhone with a titanium design and A17 Bionic chip for unbeatable speed.",
+      "specifications": {
+        "display": "6.7-inch Super Retina XDR",
+        "processor": "A17 Bionic",
+        "ram": "8GB",
+        "storage": "256GB",
+        "battery": "4323mAh",
+        "os": "iOS 17"
+      },
+      "rating": 4.9,
+      "availability": "In Stock"
+    },
+    {
+      "id": 3,
+      "name": "Pixel 8 Pro",
+      "brand": "Google",
+      "price": 999,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHDK26yITApVdQ1kccCgoF6OpnkgJWVA3G3Q&s",
+      "description": "The Pixel 8 Pro combines AI-powered features with Google's best-ever camera system.",
+      "specifications": {
+        "display": "6.7-inch OLED, 120Hz",
+        "processor": "Google Tensor G3",
+        "ram": "12GB",
+        "storage": "128GB",
+        "battery": "5100mAh",
+        "os": "Android 14"
+      },
+      "rating": 4.7,
+      "availability": "Limited Stock"
+    },
+    {
+      "id": 4,
+      "name": "Xiaomi 13 Pro",
+      "brand": "Xiaomi",
+      "price": 899,
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2023/10/pixel-8-family-2.jpg?quality=82&strip=all&w=1600",
+      "description": "Flagship features at a value price, with Leica-powered cameras and a 120Hz AMOLED display.",
+      "specifications": {
+        "display": "6.73-inch AMOLED, 120Hz",
+        "processor": "Snapdragon 8 Gen 2",
+        "ram": "12GB",
+        "storage": "256GB",
+        "battery": "4820mAh",
+        "os": "Android 13, MIUI 14"
+      },
+      "rating": 4.6,
+      "availability": "In Stock"
+    },
+    {
+      "id": 5,
+      "name": "OnePlus 11",
+      "brand": "OnePlus",
+      "price": 799,
+      "image": "https://onlinemizoram.org/wp-content/uploads/2023/09/61QdKePBtL._SL1500_.jpg",
+      "description": "Premium design and cutting-edge speed with Snapdragon 8 Gen 2 and Hasselblad cameras.",
+      "specifications": {
+        "display": "6.7-inch AMOLED, 120Hz",
+        "processor": "Snapdragon 8 Gen 2",
+        "ram": "8GB",
+        "storage": "128GB",
+        "battery": "5000mAh",
+        "os": "Android 13, OxygenOS"
+      },
+      "rating": 4.5,
+      "availability": "In Stock"
+    },
+    {
+      "id": 6,
+      "name": "Sony Xperia 1 V",
+      "brand": "Sony",
+      "price": 1299,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI2DJe_e2GVA4FzbX5fBPxpLEHQhwkI94goPolfPEeS1lL0Y8ZHFnQphy7ejjQ_OkYziw&usqp=CAU",
+      "description": "A multimedia powerhouse with a 4K HDR OLED display and professional-grade cameras.",
+      "specifications": {
+        "display": "6.5-inch 4K OLED, 120Hz",
+        "processor": "Snapdragon 8 Gen 2",
+        "ram": "12GB",
+        "storage": "256GB",
+        "battery": "5000mAh",
+        "os": "Android 13"
+      },
+      "rating": 4.7,
+      "availability": "Pre-Order"
+    }
+  ]
